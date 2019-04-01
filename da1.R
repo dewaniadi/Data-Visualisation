@@ -1,2 +1,0 @@
-p <- plot_ly(data, x = ~Year, y = ~Attendance, text = ~Winner, type = 'scatter', mode = 'line', fill="tozeroy") %>%
-layout(title = 'Attendance of particular year', xaxis = list(title=Year"),yaxis = list(title=))
